@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sametkabay/Desktop/dtv-api-service/get-my-ip/IpService.csproj": {}
+    "/Users/sametkabay/Desktop/get-my-ip/IpService.csproj": {}
   },
   "projects": {
-    "/Users/sametkabay/Desktop/dtv-api-service/get-my-ip/IpService.csproj": {
+    "/Users/sametkabay/Desktop/get-my-ip/IpService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sametkabay/Desktop/dtv-api-service/get-my-ip/IpService.csproj",
+        "projectUniqueName": "/Users/sametkabay/Desktop/get-my-ip/IpService.csproj",
         "projectName": "IpService",
-        "projectPath": "/Users/sametkabay/Desktop/dtv-api-service/get-my-ip/IpService.csproj",
+        "projectPath": "/Users/sametkabay/Desktop/get-my-ip/IpService.csproj",
         "packagesPath": "/Users/sametkabay/.nuget/packages/",
-        "outputPath": "/Users/sametkabay/Desktop/dtv-api-service/get-my-ip/obj/",
+        "outputPath": "/Users/sametkabay/Desktop/get-my-ip/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
